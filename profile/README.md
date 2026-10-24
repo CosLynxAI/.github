@@ -47,21 +47,23 @@ Set up your brand or channel once. Content Factory finds what your audience want
 
 A reel moves through several of these, each beat in its own look, joined by designed transitions.
 
-### From a topic to a posted reel
-
-```mermaid
-flowchart LR
-    Q["Topic<br/>your audience wants"] --> R["Research<br/>quotable facts"] --> S["Script<br/>judged ideas"]
-    S --> V["Voice<br/>and music"] --> F["Film<br/>drawn in code"]
-    F --> J{"Judge"}
-    J -- "8 or more" --> P["Posted"]
-    J -- "under 8" --> H["Held for you,<br/>with the reason"]
-```
+### Watch it being made
 
 <img src="https://raw.githubusercontent.com/CosLynxAI/.github/main/profile/assets/run.jpg" alt="One reel's page in the studio: steps from picking the topic to mixing, each with its time, the reel playing on the left and about 37 minutes to go" width="100%">
 <p align="center"><sub>Watch any reel being made, step by step, and open every brief, script and still behind it.</sub></p>
 
 <p align="center"><a href="https://coslynx.com"><b>See it on coslynx.com →</b></a></p>
+
+## Free guide
+
+<table>
+<tr>
+<td>
+<h3><a href="https://coslynx.com/free-guide">A fact-checked reel with Claude, this week →</a></h3>
+Seven steps from a question people already have to a reel you can post: the facts, the hook, the script, the pictures, the sound and a fresh-eyed check, with prompts to paste. Free, no sign-up, made from what we learned building Content Factory.
+</td>
+</tr>
+</table>
 
 ## Open source
 
