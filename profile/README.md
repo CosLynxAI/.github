@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://coslynx.com"><img src="https://raw.githubusercontent.com/CosLynxAI/.github/main/profile/assets/banner.jpg" alt="Coslynx: explainer reels, made on your own computer. Five stills from Content Factory reels: a linocut of why snow keeps houses warm, a salary waterfall chart, a vault door, a machine taken apart and a riso print of interest growing on interest" width="100%"></a>
+<a href="https://coslynx.com"><img src="https://raw.githubusercontent.com/CosLynxAI/.github/main/profile/assets/banner.jpg" alt="Coslynx: reels for your brand, made on your own computer. Three frames drawn by Content Factory: an orbit traced in hot ink, a turbofan engine taken apart in isometric, and an energy meter painted as an anime cel" width="100%"></a>
 
 <a href="https://coslynx.com"><img src="https://img.shields.io/badge/coslynx.com-Content%20Factory-7C3AED?style=for-the-badge" alt="coslynx.com"></a>
 <a href="https://x.com/CoslynxAI"><img src="https://img.shields.io/badge/follow-@CoslynxAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @CoslynxAI"></a>
@@ -10,11 +10,11 @@
 
 ## Content Factory
 
-Pick your channel. Content Factory finds the question your viewers want answered, researches it, writes the reel, narrates it and animates every frame, on your own machine and your own Claude plan. A reel that does not clear the bar is never posted: it waits for you, with the reason.
+Set up your brand or channel once. Content Factory finds what your audience wants to watch, researches it, writes the reel in the form your channel uses, voices it and animates every frame, on your own machine and your own Claude plan. A reel that does not clear the bar is never posted: it waits for you, with the reason.
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>Picks the question</b><br><sub>Live trends, Reddit, Hacker News, news and Wikipedia, voted on by a panel of strangers before a word is written.</sub></td>
+<td width="25%" valign="top"><b>Picks the topic</b><br><sub>Live trends, Reddit, Hacker News, news and Wikipedia, read for your audience and voted on by a panel of strangers before a word is written.</sub></td>
 <td width="25%" valign="top"><b>Checks every fact</b><br><sub>Each number and quote is matched to the source it came from before the voice is recorded.</sub></td>
 <td width="25%" valign="top"><b>Draws every frame</b><br><sub>No image or video generators. Two film engines and 90+ looks, plus real, credited material from the open web.</sub></td>
 <td width="25%" valign="top"><b>Judged before it posts</b><br><sub>Scored against hand-picked reels. Under 8 out of 10, it is fixed once, then held for you.</sub></td>
@@ -47,18 +47,18 @@ Pick your channel. Content Factory finds the question your viewers want answered
 
 A reel moves through several of these, each beat in its own look, joined by designed transitions.
 
-### From a question to a posted reel
+### From a topic to a posted reel
 
 ```mermaid
 flowchart LR
-    Q["Question<br/>your viewers ask"] --> R["Research<br/>quotable facts"] --> S["Script<br/>judged ideas"]
+    Q["Topic<br/>your audience wants"] --> R["Research<br/>quotable facts"] --> S["Script<br/>judged ideas"]
     S --> V["Voice<br/>and music"] --> F["Film<br/>drawn in code"]
     F --> J{"Judge"}
     J -- "8 or more" --> P["Posted"]
     J -- "under 8" --> H["Held for you,<br/>with the reason"]
 ```
 
-<img src="https://raw.githubusercontent.com/CosLynxAI/.github/main/profile/assets/run.jpg" alt="One reel's page in the studio: steps from picking the question to mixing, each with its time, the reel playing on the left and about 37 minutes to go" width="100%">
+<img src="https://raw.githubusercontent.com/CosLynxAI/.github/main/profile/assets/run.jpg" alt="One reel's page in the studio: steps from picking the topic to mixing, each with its time, the reel playing on the left and about 37 minutes to go" width="100%">
 <p align="center"><sub>Watch any reel being made, step by step, and open every brief, script and still behind it.</sub></p>
 
 <p align="center"><a href="https://coslynx.com"><b>See it on coslynx.com →</b></a></p>
